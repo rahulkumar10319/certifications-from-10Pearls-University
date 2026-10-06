@@ -5,7 +5,7 @@ This repository contains my completed certifications and courses in **Cloud Comp
 ## 📜 Certificates
 
 | # | Certificate | Organization |
-|---|---|---|
+|---|---|---
 | 1 | **Azure Fundamentals** | NASTP / 10Pearls University |
 | 2 | **MongoDB** | NASTP / 10Pearls University |
 
