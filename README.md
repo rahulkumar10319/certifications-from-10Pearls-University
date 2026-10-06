@@ -15,7 +15,7 @@ This repository contains my completed certifications and courses in **Cloud Comp
 ### ☁️ Azure Fundamentals
 Certificate earned for the successful completion of the **Azure Fundamentals** course.
 
-📄 [View Certificate](./Azure-Fundamentals.pdf)
+📄 [View Certificate](Azure-Fundamentals.pdf.pdf)
 
 ### 🍃 MongoDB
 Certificate earned for the successful completion of the **MongoDB** course.
