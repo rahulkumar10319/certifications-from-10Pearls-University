@@ -20,7 +20,7 @@ Certificate earned for the successful completion of the **Azure Fundamentals** c
 ### 🍃 MongoDB
 Certificate earned for the successful completion of the **MongoDB** course.
 
-📄 [View Certificate](./MongoDB.pdf)
+📄 [View Certificate](MongoDB.pdf.pdf)
 
 
 
